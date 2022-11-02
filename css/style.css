@@ -1,0 +1,132 @@
+.header .wrapper
+ {
+	 width:100%;
+    margin:auto;
+ }
+ .about .wrapper
+ {
+	 width:100%;
+    margin:auto;
+ }
+ .logos .wrapper
+ {
+	 width:100%;
+    margin:auto;
+ }
+ .wepsite .wrapper
+ {
+	 width:80;
+    margin:auto;
+ }
+ .header
+ {
+	 background-color:gray;
+ }
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .start-boot
+{
+	 text-align:center;
+	 background-color:black;
+	 height:56px;
+	 width:700px;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:pink;
+	 height:56px;
+	 width:700px;
+ }
+ .about
+ {
+	  background-color:lightgreen;
+ }
+ .about .about-fc
+ {
+	 display:flex;
+	 flex-wrap:wrap;
+	justify-content:space-around;
+	height:400px;
+	width:1515px;
+	
+ }
+ .about .about-fc .call-to-action
+ {
+	 text-align:center;
+	 margin-top:150px;
+	 background-color:white;
+	 height:44px;
+	 width:300px;
+ }
+ .logos 
+ {
+	 text-align:center;
+	 background-color:gray;
+	 height:500px;
+ }
+ .logos .logos-fc 
+ {
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-around;	 
+ }
+ .logos .logos-fc .new-layout
+ {
+	 text-align:center;
+	 margin-top:50px;
+	 background-color:tomato;
+	 height:176px;
+	 width:400px;
+ }
+ .logos .logos-fc .free-download
+ {
+	 text-align:center;
+	 margin-top:50px;
+  background-color:black;
+  height:176px;
+  width:400px;
+ }
+ 
+ .logos .logos-fc .jumbotron
+ {
+	 text-align:center;
+	 margin-top:50px;
+  background-color:white;
+  height:176px;
+  width:400px;
+ }
+ .logos .logos-fc .features
+ {
+	 text-align:center;
+	 margin-top:50px;
+  background-color:plum;
+  height:176px;
+  width:400px;
+ }
+ .logos .logos-fc .code
+ {
+	 text-align:center;
+	 margin-top:50px;
+  background-color:lightyellow;
+  height:176px;
+  width:400px;
+ }
+ .logos .logos-fc .name
+ {
+	 text-align:center;
+	 margin-top:50px;
+  background-color:pink;
+  height:176px;
+  width:400px;
+ }
+ .website
+ {
+	 text-align:center;
+	 background-color:navy;
+	 width:1499px;
+	 height:124px;
+ }
